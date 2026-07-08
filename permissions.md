@@ -1,23 +1,23 @@
 # Linux Permissions
 
 ## Viewing permissions 
-`ls -l`
+- `ls -l`
 Shows the permissions for files and directiories.
-`ls -la`
+- `ls -la`
 Shows permissions and hidden files.
-`ls -ld` 
+- `ls -ld` 
 Shows the permissions folder
 
-` -`
+- ` -`
 =file 
-`d` 
+- `d` 
 = directory
 
-`rwx` 
+- `rwx` 
 Owner
-`r-x`
+- `r-x`
 Group
-` r--`
+- ` r--`
 Everyone else 
 
 ---
