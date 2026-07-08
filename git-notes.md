@@ -1,8 +1,8 @@
-#git commands
-- learned to connect git to github using ssh
+# Git Commands
+- `Learned to connect git to github using ssh.`
 
-    ##To edit a file 
-- git status.
-- git add.
-- git commit -m "message".
-- git push.
+    ## To edit a file 
+- `Git status.`
+- `Git add.`
+- `Git commit -m "message".`
+- `Git push.`
