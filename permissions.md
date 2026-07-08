@@ -2,11 +2,11 @@
 
 ## Viewing permissions 
 - `ls -l`
-Shows the permissions for files and directiories.
+Shows the permissions for files.
 - `ls -la`
 Shows permissions and hidden files.
 - `ls -ld` 
-Shows the permissions folder
+Shows the permissions of the directory itself.
 
 - ` -`
 =file 
@@ -14,11 +14,11 @@ Shows the permissions folder
 = directory
 
 - `rwx` 
-Owner
+can read,write and execute 
 - `r-x`
-Group
+Can read and write but not execute
 - ` r--`
-Everyone else 
+Can only read 
 
 ---
 ## Permission types
@@ -31,3 +31,11 @@ Everyone else
 - Owner
 - Group 
 - Others
+
+## Change Permissions
+` chmod +x filename`
+Adds execute permission.
+
+`chmod -x filename`
+Removes execute permission.
+
