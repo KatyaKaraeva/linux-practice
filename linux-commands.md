@@ -12,6 +12,8 @@
 
 ## Managing Files
 - ` to copy file` - cp (file name.md) (file name-backup.md).
-    `example cp dns.md dns-backup.md`
+    Example:
+    ` cp dns.md dns-backup.md`
 - ` to rename file`- mv filename.md filename.md
-    `example mv dns-backup.md dns-old.md`
+    Example:
+    ` mv dns-backup.md dns-old.md`
